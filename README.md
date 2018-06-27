@@ -1,14 +1,24 @@
 # LOMBOK 
 1.Avoid Repetitive Code jar : org.projectlombok
+
 2.Getters/Setters, Constructors – So Repetitive : @Getter @Setter @NoArgsConstructor
+
 3.Value Classes/DTO’s : @RequiredArgsConstructor @Accessors(fluent = true) @Getter
+
 4.Core Java Boilerplate : @ToString  @EqualsAndHashCode
+
 5.The Builder Pattern : @Builder
+
 6.Checked Exceptions Burden : @SneakyThrows
+
 7.Ensure Your Resources are Released : @Cleanup
+
 8.Annotate Your Class To Get a Logger : @Slf4j
+
 9.Write Thread-Safer Methods : @Synchronized
+
 10.Automate Objects Composition : @Delegate(types = {HasContactInformation.class})
+
 
 # Pre Requesting 
  
